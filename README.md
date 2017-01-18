@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# toy_app
+Toy app for ruby on rails tutorial
